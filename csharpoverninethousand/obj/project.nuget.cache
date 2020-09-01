@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OaKurhfuUkLAVG9q3deyhSk1i6u43GzsKUmmLCfFfAFq22ie+WRqzwqColdlFPCx5s6hUHPqTlVmFnaUbZgJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evanr\\source\\repos\\csharpoverninethousand\\csharpoverninethousand\\csharpoverninethousand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evanr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\evanr\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\evanr\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
